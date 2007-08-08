@@ -1,3 +1,4 @@
 category: X11
+requires: libX11-devel xproto
 sdesc: "Xorg XInput protocol headers"
 ldesc: "Xorg XInput protocol headers"

@@ -1,4 +1,4 @@
 category: X11
-requires: libX11-devel xproto
-sdesc: "X.Org XInput protocol headers"
-ldesc: "X.Org XInput protocol headers"
+requires: xproto
+sdesc: "X.Org XInput extension headers"
+ldesc: "X.Org XInput extension headers"

@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="inputproto"
+VERSION=2.3
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X.Org XInput extension headers"
+DESCRIPTION="X.Org XInput extension headers"
